@@ -1,6 +1,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Trying to expand my mind.
+- 🤔 &nbsp; You don't know what you don't know.
 - 🎓 &nbsp; Studying Computer Science at George Mason University.
 - 💼 &nbsp; Working as a Embedded Systems and DevOps Engineer.
 - 🌱 &nbsp; Learning more about Web Development and Game Programming.
@@ -49,7 +49,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contact </h3>
 
 <p align="center">
 <a href="http://mason.gmu.edu/~mvu21/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mason.gmu.edu/~mvu21-blue?style=flat-square&logo=google-chrome"></a>
