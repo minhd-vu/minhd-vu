@@ -1,0 +1,13 @@
+call plug#begin()
+Plug 'preservim/NERDTree'
+Plug 'scrooloose/syntastic'
+Plug 'altercation/vim-colors-solarized'
+Plug 'scrooloose/nerdcommenter'
+Plug 'valloric/youcompleteme'
+Plug 'tpope/vim-surround'
+Plug 'vim-airline/vim-airline'
+Plug 'chiel92/vim-autoformat'
+call plug#end()
+set softtabstop=4
+set shiftwidth=4
+set expandtab
