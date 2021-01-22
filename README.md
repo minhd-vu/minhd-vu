@@ -1,8 +1,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; You don't know what you don't know.
+- 🤔 &nbsp; Eager to learn more about technology.
 - 🎓 &nbsp; Studying Computer Science at George Mason University.
-- 💼 &nbsp; Working as a Embedded Systems and DevOps Engineer.
+- 💼 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Web Development and Game Programming.
 - ✍️ &nbsp; Pursuing Graphic Design and Game Design as hobbies/side hustles.
 
