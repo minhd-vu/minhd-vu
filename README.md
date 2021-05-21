@@ -51,6 +51,7 @@
 <a href="https://github.com/minhd-vu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=minhd-vu&theme=buefy&layout=compact" />
 </a>
 
 <br/>
