@@ -1,10 +1,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Big fan of Nerf wars!
+- 🤔 &nbsp; Big fan of Nerf wars and photography!
 - 🎓 &nbsp; Studying Computer Science at George Mason University.
 - 💼 &nbsp; Working as a Software Engineer.
-- 🌱 &nbsp; Learning more about Web Development and Game Programming.
-- ✍️ &nbsp; Pursuing Graphic Design and Game Design as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Flutter and Mobile App Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
