@@ -16,25 +16,23 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp)
-  ![Go](https://img.shields.io/badge/-C%23-333333?style=flat&logo=go)
-  ![Flutter](https://img.shields.io/badge/-C%23-333333?style=flat&logo=flutter)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-dot-js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis CI](https://img.shields.io/badge/-Travis%20CI-333333?style=flat&logo=travis-ci)
 - 🔧 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
-  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
