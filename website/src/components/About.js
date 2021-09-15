@@ -1,10 +1,8 @@
 export default function About() {
   return (
     <section id="about">
-      <div className="container mx-auto flex px-10 py-20 items-center">
-
-        <div className="flex-1" />
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+      <div className="container mx-auto flex px-10 py-20 justify-center">
+        <div className="md:w-2/3 flex flex-col items-start text-left mb-16">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Minh Vu
           </h1>
@@ -12,10 +10,11 @@ export default function About() {
             Software Engineer
           </h2>
           <p className="mb-8 leading-relaxed">
-            Always in search of new technologies to learn. Currently interested in Game Developement and Mobile App Development.
-            Interested in Nerf Wars, 3D Printing, and Photography.
+            Attending <b className="text-gray-300">George Mason University</b> for a BS in Computer Science.
+            I'm currently learning about Game Development and Mobile App Development in my free time.
+            Some of my hobbies include in Nerf Wars, 3D Printing, and Photography.
           </p>
-          <div className="flex justify-center">
+          <div className="flex">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
@@ -28,7 +27,6 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div className="flex-1" />
       </div>
     </section>
   );
