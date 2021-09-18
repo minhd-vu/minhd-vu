@@ -6,27 +6,27 @@ import { projects } from "../data";
 function Project(props) {
   const project = props.project;
   return (
-    <a
-      href={project.link}
-      key={project.image}
-      className="sm:w-1/2 w-100 p-4">
-      <div className="flex relative">
-        <img
-          alt="gallery"
-          className="absolute inset-0 w-full h-full object-cover object-center"
-          src={project.image}
-        />
-        <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
-          <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-            {project.subtitle}
-          </h2>
-          <h1 className="title-font text-lg font-medium text-white mb-3">
-            {project.title}
-          </h1>
-          <p className="leading-relaxed">{project.description}</p>
+    <div className="sm:w-1/2 w-100 p-4 flex relative">
+      <div className="px-8 py-10 relative w-full border-4 border-gray-800 bg-gray-900">
+        <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
+          {project.subtitle}
+        </h2>
+        <h1 className="title-font text-lg font-medium text-white mb-3">
+          {project.title}
+        </h1>
+        <p className="leading-relaxed text-left">{project.description}</p>
+        <div className="flex pt-8">
+          <a
+            className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+            Demo
+          </a>
+          <a
+            className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+            Source
+          </a>
         </div>
       </div>
-    </a>
+    </div>
   );
 }
 
@@ -41,7 +41,7 @@ export default function Projects() {
           </h1>
         </div>
         <div className="flex flex-wrap -m-4">
-          {projects.map((project) => <Project project={project}/>)}
+          {projects.map((project) => <Project project={project} />)}
         </div>
       </div>
     </section>
