@@ -16,14 +16,14 @@ function Project(props) {
         </h1>
         <p className="leading-relaxed text-left">{project.description}</p>
         <div className="flex pt-8">
-          <a
+          {project.demo && <a href={project.demo}
             className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
             Demo
-          </a>
-          <a
+          </a>}
+          {project.code && <a href={project.code}
             className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-            Source
-          </a>
+            Code
+          </a>}
         </div>
       </div>
     </div>
