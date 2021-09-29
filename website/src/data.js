@@ -2,7 +2,7 @@ export const projects = [
 	{
 		title: "Assassins",
 		subtitle: "MERN Stack",
-		description: "Assassins is a game that can be played almost anywhere, but best done in semi-crowded environments. The goal of the game is to be the last remaining person alive and to assassinate whomever you are assigned. This project is designed to easily faciliate the distribution of targets to players, along with the transfer of targets post-assassination. Additionally, assassins aims to resolve some of the complications that can arise in these processes.",
+		description: "Assassins is a game that can be played almost anywhere, but best done in semi-crowded environments. The goal of the game is to be the last remaining person alive and to assassinate whomever you are assigned. This project is designed to easily faciliate the distribution of targets to players, along with the transfer of targets post-assassination.",
 		demo: "https://assassinspartygame.herokuapp.com/",
 		code: "https://github.com/minhd-vu/assassins",
 	},
@@ -26,4 +26,5 @@ export const skills = [
 	"C#",
 	"Unity",
 	"Flutter",
+	"JavaScript",
 ];

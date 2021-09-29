@@ -26,7 +26,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
         </div>
-        <div className="flex flex-wrap md:w-2/3 sm:mx-auto sm:mb-2 -mx-2 justify-center">
+        <div className="flex flex-wrap md:w-2/3 sm:mx-auto sm:mb-2 justify-center">
           {skills.map((skill) => <Skill skill={skill} />)}
         </div>
       </div>
