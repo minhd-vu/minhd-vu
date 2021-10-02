@@ -1,11 +1,65 @@
-\documentclass[12pt, letterpaper]{article}
+\documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{listings}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{amsmath,amsfonts,stmaryrd,amssymb}
+\usepackage{enumerate}
+\usepackage{helvet}
+
+\geometry{
+	paper=letterpaper,
+	top=2.5cm,
+	bottom=3cm,
+	left=2.5cm,
+	right=2.5cm,
+	headheight=14pt,
+	footskip=1.5cm,
+	headsep=1.2cm,
+	%showframe,
+}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
 
 \title{Template}
 \author{Minh Vu}
 
 \begin{document}
 \maketitle
+
+\section*{Section}
+
+\begin{lstlisting}[language=Python]
+print("Hello World!")
+if i > 0:
+  print("Hi")
+\end{lstlisting}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 \end{document}
