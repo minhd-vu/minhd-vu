@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Big fan of Nerf wars and photography!
 - 🎓 &nbsp; Studying Computer Science at George Mason University.
 - 💼 &nbsp; Working as a Software Engineer.
-- 🌱 &nbsp; Learning more about Flutter and Mobile App Development.
+- 🌱 &nbsp; Learning more about Solidity and Blockchain Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
