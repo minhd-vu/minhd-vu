@@ -53,5 +53,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minh%20Vu-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/minhd_vu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-minhd_vu-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mvu21@gmu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-mvu21@gmu.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:minhd_vu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-mvu21@gmu.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
