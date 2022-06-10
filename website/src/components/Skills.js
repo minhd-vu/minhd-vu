@@ -1,4 +1,4 @@
-import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
+import { ChipIcon } from "@heroicons/react/solid";
 import React from "react";
 import { skills } from "../data";
 
@@ -7,13 +7,10 @@ function Skill(props) {
   return (
     <div key={skill} className="p-2">
       <div className="bg-gray-800 rounded flex p-4 h-full items-center">
-        {/* <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" /> */}
-        <span className="title-font font-medium text-white">
-          {skill}
-        </span>
+        <span className="title-font font-medium text-white">{skill}</span>
       </div>
     </div>
-  )
+  );
 }
 
 export default function Skills() {
@@ -27,7 +24,9 @@ export default function Skills() {
           </h1>
         </div>
         <div className="flex flex-wrap md:w-2/3 sm:mx-auto sm:mb-2 justify-center">
-          {skills.map((skill) => <Skill skill={skill} />)}
+          {skills.map((skill) => (
+            <Skill skill={skill} />
+          ))}
         </div>
       </div>
     </section>

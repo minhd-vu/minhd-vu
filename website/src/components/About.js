@@ -10,19 +10,23 @@ export default function About() {
             Software Engineer
           </h2>
           <p className="mb-8 leading-relaxed">
-            Attending <b className="text-gray-300">George Mason University</b> for a BS in Computer Science.
-            I'm currently learning about Game Development and Mobile App Development in my free time.
-            Some of my hobbies include in Nerf Wars, 3D Printing, and Photography.
+            Hey 👋! I graduated from{" "}
+            <b className="text-gray-300">George Mason University</b> with a
+            bachelor's in computer science. I'm currently learning about
+            Solidity and blockchain development in my free time. My hobbies
+            include in Nerf wars, 3D printing, and photography.
           </p>
           <div className="flex">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+            >
               Contact
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+            >
               Projects
             </a>
           </div>
