@@ -226,3 +226,5 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 " Prettier
 command! -nargs=0 Prettier :CocCommand prettier.forceFormatDocument
 
+" NERDCommenter
+filetype plugin on
