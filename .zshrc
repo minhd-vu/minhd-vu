@@ -105,3 +105,9 @@ alias vi="nvim"
 # tabtab source for packages
 # uninstall by removing these lines
 [[ -f ~/.config/tabtab/zsh/__tabtab.zsh ]] && . ~/.config/tabtab/zsh/__tabtab.zsh || true
+
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
