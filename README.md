@@ -10,15 +10,16 @@
 <!-- search for icons here https://simpleicons.org/ -->
 
 - 💻 &nbsp;
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
