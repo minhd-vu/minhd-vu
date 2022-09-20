@@ -1,7 +1,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Big fan of Nerf wars and photography!
-- 🎓 &nbsp; Studying Computer Science at George Mason University.
+- 🎓 &nbsp; Studied Computer Science at George Mason University.
 - 💼 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Solidity and Blockchain Development.
 
