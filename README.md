@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&card_width=444">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&card_width=446&hide=css,html">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact">
     </picture>
   </a>
@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=4&column=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=10&column=4">
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
     </picture>
   </a>
