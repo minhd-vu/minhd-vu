@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&card_width=450">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&card_width=444">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact">
     </picture>
   </a>
