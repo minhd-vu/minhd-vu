@@ -49,19 +49,19 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=300&layout=compact&langs_count=10">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&layout=compact&langs_count=10">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&layout=compact&langs_count=10">
     </picture>
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake,c&card_width=400&layout=compact&langs_count=8">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake,c&card_width=400&layout=compact&langs_count=8">
-  </picture>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake,c&layout=compact">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake,c&card_width=400&layout=compact">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
