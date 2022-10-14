@@ -1,11 +1,11 @@
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻&nbsp;About Me</h3>
 
 - 🤔&nbsp;Big fan of Nerf wars and photography!
 - 🎓&nbsp;Studied Computer Science at George Mason University.
 - 💼&nbsp;Working as a Software Engineer.
 - 🌱&nbsp;Learning more about Solidity and Blockchain Development.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>🛠&nbsp;Tech Stack</h3>
 
 <!-- search for icons here https://simpleicons.org/ -->
 
@@ -42,16 +42,20 @@
 
 <br/>
 
-<p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=ayu-mirage&show_icons=true&count_private=true&card_width=400">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=ayu-mirage&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+  </picture>
 </a>
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=ayu-mirage&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
@@ -60,7 +64,7 @@
 </a>
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=ayu-mirage">
@@ -69,7 +73,7 @@
 </a>
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=alduin&margin-h=4&margin-w=4&column=4">
@@ -80,7 +84,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Contact </h3>
+<h3>🤝&nbsp;Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minh%20Vu-blue?style=flat-square&logo=linkedin"></a>
