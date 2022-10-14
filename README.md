@@ -49,19 +49,13 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true">
     </picture>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&card_width=450">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact">
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&layout=compact&card_width=500">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&layout=compact&card_width=500">
     </picture>
   </a>
 </p>
