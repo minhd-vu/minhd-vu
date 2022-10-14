@@ -42,33 +42,41 @@
 
 <br/>
 
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=ayu-mirage&show_icons=true&count_private=true&card_width=400">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
   </picture>
 </a>
+</p>
 
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=ayu-mirage&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
   </picture>
 </a>
+</p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=alduin&margin-h=4&margin-w=4&column=4">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
-  </picture>
-</a>
-
+<p>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=ayu-mirage">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu">
   </picture>
 </a>
+</p>
+
+<p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=alduin&margin-h=4&margin-w=4&column=4">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
+  </picture>
+</a>
+</p>
 
 <br/>
 
