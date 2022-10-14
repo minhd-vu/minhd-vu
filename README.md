@@ -43,8 +43,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true#gh-dark-mode-only">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true#gh-light-mode-only">
   </a>
 </div>
