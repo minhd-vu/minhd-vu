@@ -42,10 +42,36 @@
 
 <br/>
 
-<a href="https://github.com/minhd-vu">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact" />
 </a>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu" alt="minhd-vu" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu" alt="minhd-vu" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=alduin&no-frame=true&margin-h=4&margin-w=4&column=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&no-frame=true&margin-h=4&margin-w=4&column=4">
+</picture>
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&" />
+  </a>
+</p>
 
 <br/>
 
