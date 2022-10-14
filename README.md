@@ -45,12 +45,12 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=ayu-mirage&show_icons=true&count_private=true&card_width=400">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true&card_width=400">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=ayu-mirage&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
   </picture>
 </a>
 </p>
@@ -58,7 +58,7 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=ayu-mirage&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
   </picture>
 </a>
@@ -67,7 +67,7 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=ayu-mirage">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu">
   </picture>
 </a>
