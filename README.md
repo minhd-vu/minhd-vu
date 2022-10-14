@@ -43,43 +43,43 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true&card_width=400">
-    <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
-  </picture>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true&card_width=400">
+      <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true&card_width=400">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&hide=css,shell,html,shaderlab,tex,dockerfile,cmake&card_width=400&layout=compact&langs_count=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake,c&card_width=400&layout=compact&langs_count=8">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&hide=css,shell,html,shaderlab,tex,dockerfile,cmake,c&card_width=400&layout=compact&langs_count=8">
   </picture>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu">
-  </picture>
-</a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=buefy">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=4&column=4">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
-  </picture>
-</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=4&column=4">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
+    </picture>
+  </a>
 </p>
 
 <br/>
