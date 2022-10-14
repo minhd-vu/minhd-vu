@@ -49,6 +49,12 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true">
     </picture>
   </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=buefy">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
