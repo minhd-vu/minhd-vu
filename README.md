@@ -42,7 +42,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="margin-bottom:16px">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true#gh-dark-mode-only">
   </a>
@@ -51,7 +51,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom:10px">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&langs_count=10&card_width=445&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-dark-mode-only">
   </a>
