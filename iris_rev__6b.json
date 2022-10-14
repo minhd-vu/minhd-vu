@@ -60,7 +60,7 @@
       "KC_N",
       "KC_NO",
       "KC_NO",
-      "FN_MO23",
+      "OSL(2)",
       "OSL(1)",
       "KC_BSPC",
       "KC_MUTE"
@@ -156,7 +156,7 @@
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_NO",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_F11",
       "KC_F10",
@@ -184,9 +184,9 @@
       "RGB_SPD",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
       "KC_TRNS",
-      "KC_NO",
+      "KC_TRNS",
+      "KC_TRNS",
       "KC_NO"
     ],
     [
