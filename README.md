@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=14&column=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=18&column=4">
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
     </picture>
   </a>
