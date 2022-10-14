@@ -42,48 +42,40 @@
 
 <br/>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true">
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true#gh-light-mode-only">
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&langs_count=10&card_width=445&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact#gh-light-mode-only">
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&card_width=445&hide=css,html,shell,dockerfile,shaderlab,tex,cmake&langs_count=6">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact">
-    </picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=buefy#gh-light-mode-only">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=buefy">
-    </picture>
-  </a>
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=18&column=4">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
-    </picture>
+    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=18&margin-w=18&column=4#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=18&margin-w=18&column=4#gh-light-mode-only">
   </a>
-</p>
+</div>
 
 <br/>
 
 <h3>🤝&nbsp;Contact</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minh%20Vu-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/minhd_vu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-minhd_vu-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:minhd_vu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhd_vu@yahoo.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</div>
