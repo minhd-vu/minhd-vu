@@ -56,25 +56,11 @@
   </picture>
 </a>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu" alt="minhd-vu" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu" alt="minhd-vu" />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=alduin&margin-h=4&margin-w=4&column=4">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
-</picture>
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=alduin&margin-h=4&margin-w=4&column=4">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=4&margin-w=4&column=4">
+  </picture>
 </a>
 
 <br/>
