@@ -49,24 +49,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=buefy&show_icons=true&count_private=true#gh-light-mode-only">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&langs_count=10&card_width=445&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-dark-mode-only">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact&langs_count=10&card_width=445&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-light-mode-only">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark#gh-dark-mode-only">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=buefy#gh-light-mode-only">
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=18&margin-w=18&column=4#gh-dark-mode-only">
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=18&margin-w=18&column=4#gh-light-mode-only">
-  </a>
 </div>
 
 <div align="center">
@@ -89,10 +71,10 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=18&margin-w=18&column=4#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=4&margin-w=18&column=4#gh-dark-mode-only">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=18&margin-w=18&column=4#gh-light-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=10&margin-w=18&column=4#gh-light-mode-only">
   </a>
 </div>
 
