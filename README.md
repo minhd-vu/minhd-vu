@@ -18,6 +18,7 @@
 
 <details>
 <div align="center">
+  <summary></summary>
   <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
   </br>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
