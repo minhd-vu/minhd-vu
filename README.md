@@ -10,8 +10,11 @@
 <!-- search for icons here https://simpleicons.org/ -->
 
 ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)
+
 ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)
+
 ![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,mongodb,postgres,unity,firebase)
+
 ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
 - 💻&nbsp;
