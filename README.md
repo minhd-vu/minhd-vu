@@ -96,7 +96,7 @@
 
 <br/>
 
-<h2 align="center">🤝&nbsp;Contact</h2>
+<h2 align="center">🤝&nbsp;Connect</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/-vudominhd-blue?style=flat&logo=Linkedin&logoColor=white"></a>
