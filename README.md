@@ -9,16 +9,11 @@
 
 <!-- search for icons here https://simpleicons.org/ -->
 
-#### Languages
-
 ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)
-
-#### Web Development
-
 ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,mongodb,postgres,unity,firebase)
+![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
-- 💻&nbsp;
-  ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)
 - 💻&nbsp;
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
