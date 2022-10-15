@@ -9,6 +9,13 @@
 
 <!-- search for icons here https://simpleicons.org/ -->
 
+#### Languages
+
+![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)
+
+#### Web Development
+
+![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)
 
 - 💻&nbsp;
   ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)
