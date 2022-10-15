@@ -14,7 +14,13 @@
 ![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity)<br/>
 ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
+<h3 align="center">🛠&nbsp;Tech Stack</h3>
+
+<details>
 <div align="center">
+  <summary>
+    <h3>🛠&nbsp;Tech Stack</h3>
+  </summary>
   <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
   </br>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
@@ -23,6 +29,22 @@
   </br>
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
 </div>
+</details>
+
+<details>
+  <summary>
+    <h3 align="center">🛠&nbsp;Tech Stack</h3>
+  </summary>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
+    </br>
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
+    </br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
+    </br>
+    <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
+  </div>
+</details>
 
 <!-- - 💻&nbsp; -->
 <!--   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go) -->
