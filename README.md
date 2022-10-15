@@ -1,49 +1,28 @@
-<h3>👨🏻‍💻&nbsp;About Me</h3>
+<h2 align="center">👨🏻‍💻&nbsp;About Me</h2>
 
 - 🤔&nbsp;Big fan of Nerf wars and photography!
 - 🎓&nbsp;Studied Computer Science at George Mason University.
 - 💼&nbsp;Working as a Software Engineer.
 - 🌱&nbsp;Learning more about Solidity and Blockchain Development.
 
-<h3>🛠&nbsp;Tech Stack</h3>
-
-<!-- search for icons here https://simpleicons.org/ -->
-
-![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/>
-![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/>
-![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity)<br/>
-![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
+<!-- ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/> -->
+<!-- ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/> -->
+<!-- ![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity)<br/> -->
+<!-- ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai) -->
 
 <h2 align="center">🛠&nbsp;Tech Stack</h2>
 
-<details>
-  <summary>&nbsp;</summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
-    </br>
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
-    </br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
-    </br>
-    <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
-  </div>
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
+  </br>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
+  </br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
+  </br>
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
+</div>
 
-<details>
-  <summary>
-    <h3 align="center">🛠&nbsp;Tech Stack</h3>
-  </summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
-    </br>
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
-    </br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
-    </br>
-    <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
-  </div>
-</details>
-
+<!-- search for icons here https://simpleicons.org/ -->
 <!-- - 💻&nbsp; -->
 <!--   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go) -->
 <!--   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
@@ -115,7 +94,7 @@
 
 <br/>
 
-<h3>🤝&nbsp;Contact</h3>
+<h2 align="center">🤝&nbsp;Contact</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minh%20Vu-blue?style=flat-square&logo=linkedin"></a>
