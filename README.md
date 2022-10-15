@@ -11,48 +11,39 @@
 
 ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/>
 ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/>
-![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,mongodb,postgres,unity,firebase)<br/>
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity)<br/>
 ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
-- 💻&nbsp;
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-- 🌐&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- 🔧&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
-- 🖥&nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
-
-<p align="center">
-  <a href="https://skillicons.dev#gh-dark-mode-only">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae&theme=dark#gh-dark-mode-only" />
-  </a>
-  <a href="https://skillicons.dev#gh-light-mode-only">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae&theme=light#gh-light-mode-only" />
-  </a>
-</p>
+<!-- - 💻&nbsp; -->
+<!--   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go) -->
+<!--   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
+<!--   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java) -->
+<!--   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C) -->
+<!--   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B) -->
+<!--   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp) -->
+<!--   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) -->
+<!-- - 🌐&nbsp; -->
+<!--   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) -->
+<!--   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
+<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs) -->
+<!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+<!-- - 🛢&nbsp; -->
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+<!--   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) -->
+<!--   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
+<!-- - ⚙️ &nbsp; -->
+<!--   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) -->
+<!--   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) -->
+<!--   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
+<!-- - 🔧&nbsp; -->
+<!--   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) -->
+<!--   ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox) -->
+<!-- - 🖥&nbsp; -->
+<!--   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator) -->
+<!--   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) -->
+<!--   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
+<!--   ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects) -->
+<!--   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro) -->
 
 <br/>
 
