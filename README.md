@@ -42,10 +42,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev#gh-dark-mode-only">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae#gh-dark-mode-only" />
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae&theme=dark#gh-dark-mode-only" />
   </a>
   <a href="https://skillicons.dev#gh-light-mode-only">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae#gh-light-mode-only" />
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae&theme=light#gh-light-mode-only" />
   </a>
 </p>
 
@@ -96,3 +96,6 @@
   <a href="https://www.instagram.com/minhd_vu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-minhd_vu-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:minhd_vu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhd_vu@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </div>
+
+![GitHub Snake Light](https://raw.githubusercontent.com/minhd-vu/minhd-vu/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/minhd-vu/minhd-vu/output/snake-dark.svg#gh-dark-mode-only)
