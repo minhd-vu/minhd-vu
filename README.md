@@ -14,13 +14,10 @@
 ![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity)<br/>
 ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
-<h3 align="center">🛠&nbsp;Tech Stack</h3>
+<h2 align="center">🛠&nbsp;Tech Stack</h2>
 
 <details>
 <div align="center">
-  <summary>
-    <h3>🛠&nbsp;Tech Stack</h3>
-  </summary>
   <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
   </br>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
