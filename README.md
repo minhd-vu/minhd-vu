@@ -56,6 +56,8 @@
 
 <br/>
 
+<h2 align="center">📈&nbsp;GitHub Stats</h2>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=minhd-vu&theme=onedark&show_icons=true&count_private=true#gh-dark-mode-only">
