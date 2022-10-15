@@ -9,6 +9,9 @@
 
 <!-- search for icons here https://simpleicons.org/ -->
 
+
+- 💻&nbsp;
+  ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)
 - 💻&nbsp;
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
