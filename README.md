@@ -17,16 +17,16 @@
 <h2 align="center">🛠&nbsp;Tech Stack</h2>
 
 <details>
-<div align="center">
-  <summary></summary>
-  <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
-  </br>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
-  </br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
-  </br>
-  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
-</div>
+  <summary>&nbsp;</summary>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
+    </br>
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
+    </br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
+    </br>
+    <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
+  </div>
 </details>
 
 <details>
