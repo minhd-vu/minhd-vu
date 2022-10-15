@@ -40,6 +40,15 @@
   ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
 
+<p align="center">
+  <a href="https://skillicons.dev#gh-dark-mode-only">
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae#gh-dark-mode-only" />
+  </a>
+  <a href="https://skillicons.dev#gh-light-mode-only">
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,js,ts,dart,flutter,docker,firebase,aws,git,ai,kubernetes,mongodb,neovim,nodejs,ps,pr,react,unity,ae#gh-light-mode-only" />
+  </a>
+</p>
+
 <br/>
 
 <div align="center">
