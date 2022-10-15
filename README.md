@@ -15,10 +15,10 @@
 ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
 <div align="center">
-  ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/>
-  ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/>
-  ![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity)<br/>
-  ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
+  <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,unity">
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
 </div>
 <!-- - 💻&nbsp; -->
 <!--   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go) -->
