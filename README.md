@@ -99,9 +99,12 @@
 <h2 align="center">🤝&nbsp;Contact</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minh%20Vu-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/minhd_vu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-minhd_vu-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:minhd_vu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhd_vu@yahoo.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/vudominhd/"><img alt="LinkedIn" src="https://img.shields.io/badge/-vudominhd-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/minhd_vu/"><img alt="Instagram" src="https://img.shields.io/badge/minhd__vu-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://twitter.com/minhd_vu"><img alt="Twitter" src="https://img.shields.io/badge/minhd__vu-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+  <a href="mailto:minhd_vu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/-minhd__vu@yahoo.com-c14438?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/sirgoldennugget"><img alt="YouTube" src="https://img.shields.io/badge/sirgoldennugget-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+  <a href="https://twitch.tv/sirgoldennugget"><img alt="Twitch" src="https://img.shields.io/badge/sirgoldennugget-%239146FF.svg?logo=Twitch&logoColor=white"></a>
 </div>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/minhd-vu/minhd-vu/output/snake-light.svg#gh-light-mode-only)
