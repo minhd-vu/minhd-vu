@@ -12,7 +12,6 @@
 ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/>
 ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/>
 ![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,mongodb,postgres,unity,firebase)<br/>
-
 ![Other](https://skillicons.dev/icons?i=ae,pr,ps,ai)
 
 - 💻&nbsp;
