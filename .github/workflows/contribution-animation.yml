@@ -1,4 +1,4 @@
-name: contribution snake animation
+name: Generate GitHub Contribution Snake
 
 on:
   # run automatically every 12 hours
@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
