@@ -1,17 +1,17 @@
 name: Generate GitHub Contribution Snake
 
 on:
-  # run automatically every 12 hours
+  # run automatically every day at 1am
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 1 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
 
   # run on every push on the master branch
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
