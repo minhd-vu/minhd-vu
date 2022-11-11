@@ -1,9 +1,9 @@
 <h2 align="center">👨🏻‍💻&nbsp;About Me</h2>
 
 - 🤔&nbsp;Big fan of Nerf wars and photography!
-- 🎓&nbsp;Studied Computer Science at George Mason University.
-- 💼&nbsp;Working as a Software Engineer.
-- 🌱&nbsp;Learning more about Solidity and Blockchain Development.
+- 🎓&nbsp;Studied Computer Science at George Mason University
+- 💼&nbsp;Working as a Software Engineer
+- 🌱&nbsp;Learning how to CAD and build split ergonomic keyboards
 
 <!-- ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/> -->
 <!-- ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/> -->
