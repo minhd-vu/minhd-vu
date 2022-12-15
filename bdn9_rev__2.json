@@ -1,0 +1,71 @@
+{
+  "name": "BDN9 Rev. 2",
+  "vendorProductId": 3406831923,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    [
+      "KC_MUTE",
+      "KC_HOME",
+      "RGB_TOG",
+      "FN_MO13",
+      "KC_UP",
+      "FN_MO23",
+      "KC_LEFT",
+      "KC_DOWN",
+      "KC_RGHT"
+    ],
+    [
+      "RESET",
+      "BL_STEP",
+      "KC_STOP",
+      "KC_TRNS",
+      "KC_F13",
+      "KC_TRNS",
+      "KC_F14",
+      "KC_F15",
+      "KC_F16"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_F17",
+      "KC_TRNS",
+      "KC_F18",
+      "KC_F19",
+      "KC_F20"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": [
+    [
+      ["KC_VOLD", "KC_VOLU"],
+      ["RGB_HUD", "RGB_HUI"],
+      ["RGB_SPI", "RGB_SPD"],
+      ["KC_TRNS", "KC_TRNS"]
+    ],
+    [
+      ["RGB_MOD", "RGB_RMOD"],
+      ["RGB_SAD", "RGB_SAI"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_TRNS", "KC_TRNS"]
+    ],
+    [
+      ["KC_PGUP", "KC_PGDN"],
+      ["RGB_VAD", "RGB_VAI"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_TRNS", "KC_TRNS"]
+    ]
+  ]
+}
