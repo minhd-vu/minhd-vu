@@ -8,33 +8,33 @@
       "KC_HOME",
       "RGB_TOG",
       "FN_MO13",
-      "KC_UP",
+      "KC_F13",
+      "KC_F14",
       "FN_MO23",
-      "KC_LEFT",
-      "KC_DOWN",
-      "KC_RGHT"
+      "KC_F15",
+      "KC_F16"
     ],
     [
       "RESET",
       "BL_STEP",
       "KC_STOP",
       "KC_TRNS",
-      "KC_F13",
+      "KC_F17",
+      "KC_F18",
       "KC_TRNS",
-      "KC_F14",
-      "KC_F15",
-      "KC_F16"
+      "KC_F19",
+      "KC_F20"
     ],
     [
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_F17",
+      "KC_F21",
+      "KC_F22",
       "KC_TRNS",
-      "KC_F18",
-      "KC_F19",
-      "KC_F20"
+      "KC_F23",
+      "KC_F24"
     ],
     [
       "KC_TRNS",
