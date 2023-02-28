@@ -69,10 +69,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&langs_count=10&card_width=445&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=onedark&layout=compact&langs_count=10&card_width=495&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-dark-mode-only">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact&langs_count=10&card_width=445&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-vu&theme=buefy&layout=compact&langs_count=10&card_width=495&role=OWNER,COLLABORATOR&hide=css,html,shell,dockerfile,shaderlab,tex,cmake#gh-light-mode-only">
   </a>
 </div>
 
