@@ -72,11 +72,14 @@ ZSH_THEME="robbyrussell"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
-  fzf
   zsh-autosuggestions
   zsh-syntax-highlighting
+  asdf
+  zsh-vi-mode
+  fzf
 )
 
+ZVM_INIT_MODE=sourcing
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -104,16 +107,13 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias ls="exa"
+alias cat="bat"
 
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
-
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
 
 function zvm_config() {
   ZVM_LINE_INIT_MODE=$ZVM_MODE_INSERT
   ZVM_VI_INSERT_ESCAPE_BINDKEY=jj
 }
-source $(brew --prefix)/opt/zsh-vi-mode/share/zsh-vi-mode/zsh-vi-mode.plugin.zsh
