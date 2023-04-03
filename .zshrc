@@ -73,10 +73,10 @@ ZSH_THEME="robbyrussell"
 plugins=(
   git
   zsh-autosuggestions
-  zsh-syntax-highlighting
   asdf
   zsh-vi-mode
   fzf
+  zsh-syntax-highlighting
 )
 
 ZVM_INIT_MODE=sourcing
