@@ -17,7 +17,7 @@
   </br>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
   </br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,gcp,mongodb,postgres,unity">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,gcp,mongodb,postgres,ansible,unity">
   </br>
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
 </div>
