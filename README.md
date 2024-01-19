@@ -110,15 +110,6 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/minhd-vu/minhd-vu/output/snake-light.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/minhd-vu/minhd-vu/output/snake-dark.svg#gh-dark-mode-only)
 
-<details>
-  <summary>Click for Surprise!</summary>
-  <div align="center">
-
-![Contribution Graph](https://github-contribution-graph.ez4o.com/?username=minhd-vu&last_n_days=30&img_url=https%3A%2F%2Fimage.cache.storm.mg%2Fmedia%2Fimage%2F2021%2F03%2F05%2F20210305-031458_U22011_M676060_ca39.gif)
-
-  </div>
-</details>
-
 <div align="right">
   <a href="https://www.linkedin.com/in/vudominhd/"><img alt="Views" src="https://komarev.com/ghpvc/?username=minhd-vu&color=e5c07b&label=Views"></a>
 </div>
