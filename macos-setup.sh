@@ -1,6 +1,6 @@
 #!/bin/bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew install neovim asdf fzf
+brew install neovim asdf fzf bat eza
 brew tap homebrew/cask-fonts && brew install --cask font-hack-nerd-font
 # oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
