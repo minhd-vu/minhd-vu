@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter">
   </br>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs">
   </br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,gcp,mongodb,postgres,ansible,unity">
   </br>
