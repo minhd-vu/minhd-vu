@@ -107,8 +107,12 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+eval "$(zoxide init zsh)"
+
 alias ls="eza"
 alias cat="bat"
+alias cd="z"
 
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
