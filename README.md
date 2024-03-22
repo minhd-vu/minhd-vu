@@ -3,7 +3,7 @@
 - 🤔&nbsp;Big fan of Nerf wars and photography!
 - 🎓&nbsp;Graduated from George Mason University
 - 💼&nbsp;Software Engineer
-- 🌱&nbsp;Learning Rust, Next.js, and 🎹
+- 🌱&nbsp;Learning Rust and 🎹
 
 <!-- ![Languages](https://skillicons.dev/icons?i=go,python,java,c,cpp,cs,dart,flutter)<br/> -->
 <!-- ![Web Development](https://skillicons.dev/icons?i=js,ts,nodejs,react)<br/> -->
