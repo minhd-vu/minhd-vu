@@ -78,10 +78,10 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=onedark#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats-minhdvus-projects.vercel.app/?user=minhd-vu&theme=onedark#gh-dark-mode-only">
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhd-vu&theme=buefy#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats-minhdvus-projects.vercel.app/?user=minhd-vu&theme=buefy#gh-light-mode-only">
   </a>
 </div>
 
