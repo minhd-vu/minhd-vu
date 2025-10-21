@@ -1,6 +1,7 @@
 ; Per-App Volume Control for BDN9 Macropad
 ; Encoder 1 (F13/F14/F15) -> Discord
 ; Encoder 2 (F16/F17/F18) -> Spotify
+; Encoder 3 (F19/F20/F21) -> Focused/Active App
 ; Requires: AutoHotkey v2.0+
 
 #Requires AutoHotkey v2.0+
@@ -22,6 +23,11 @@ F15::ToggleAppMute(DISCORD_PROCESS)                         ; Press - Mute Toggl
 F16::AdjustAppVolume(SPOTIFY_PROCESS, VOLUME_STEP)          ; Clockwise - Volume Up
 F17::AdjustAppVolume(SPOTIFY_PROCESS, -VOLUME_STEP)         ; Counter-clockwise - Volume Down
 F18::ToggleAppMute(SPOTIFY_PROCESS)                         ; Press - Mute Toggle
+
+; ===== ENCODER 3 - FOCUSED APP =====
+F19::AdjustFocusedAppVolume(VOLUME_STEP)                    ; Clockwise - Volume Up
+F20::AdjustFocusedAppVolume(-VOLUME_STEP)                   ; Counter-clockwise - Volume Down
+F21::ToggleFocusedAppMute()                                 ; Press - Mute Toggle
 
 ; ===== FUNCTIONS =====
 
@@ -70,6 +76,43 @@ ToggleAppMute(processName) {
     } catch as e {
         ToolTip("Error: " . e.Message)
         SetTimer(() => ToolTip(), -1000)
+    }
+}
+
+AdjustFocusedAppVolume(volumeChange) {
+    processName := GetActiveWindowProcess()
+    if (processName = "") {
+        ToolTip("No active window")
+        SetTimer(() => ToolTip(), -1000)
+        return
+    }
+    AdjustAppVolume(processName, volumeChange)
+}
+
+ToggleFocusedAppMute() {
+    processName := GetActiveWindowProcess()
+    if (processName = "") {
+        ToolTip("No active window")
+        SetTimer(() => ToolTip(), -1000)
+        return
+    }
+    ToggleAppMute(processName)
+}
+
+GetActiveWindowProcess() {
+    try {
+        ; Get the active window handle
+        activeHwnd := WinGetID("A")
+
+        ; Get the process ID of the active window
+        activeProcessId := WinGetPID("ahk_id " . activeHwnd)
+
+        ; Get the process name
+        processName := GetProcessName(activeProcessId)
+
+        return processName
+    } catch {
+        return ""
     }
 }
 

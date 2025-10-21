@@ -4,11 +4,11 @@ This setup allows your BDN9 macropad's encoders to control individual applicatio
 
 - **Encoder 1**: Discord volume control
 - **Encoder 2**: Spotify volume control
-- **Encoder 3**: System volume (configured directly in VIA, no script needed)
+- **Encoder 3**: Focused/Active app volume control (whichever app window you're currently using)
 
 ## How It Works
 
-Your macropad sends F13-F18 key presses via VIA, and the AutoHotkey script running on Windows intercepts these keys to adjust Discord and Spotify volumes.
+Your macropad sends F13-F21 key presses via VIA, and the AutoHotkey script running on Windows intercepts these keys to adjust Discord, Spotify, and focused app volumes.
 
 ### Key Mapping
 
@@ -20,7 +20,9 @@ Your macropad sends F13-F18 key presses via VIA, and the AutoHotkey script runni
 | Encoder 2 | Rotate Clockwise | F16 | Spotify Volume Up |
 | Encoder 2 | Rotate Counter-Clockwise | F17 | Spotify Volume Down |
 | Encoder 2 | Press | F18 | Spotify Mute Toggle |
-| Encoder 3 | Rotate/Press | (Media Keys) | System Volume |
+| Encoder 3 | Rotate Clockwise | F19 | Focused App Volume Up |
+| Encoder 3 | Rotate Counter-Clockwise | F20 | Focused App Volume Down |
+| Encoder 3 | Press | F21 | Focused App Mute Toggle |
 
 ---
 
@@ -42,10 +44,10 @@ Your macropad sends F13-F18 key presses via VIA, and the AutoHotkey script runni
 - Counter-Clockwise: `F17`
 - Press: `F18`
 
-**Encoder 3 (System Volume):**
-- Clockwise: `Volume Up` (Media Key)
-- Counter-Clockwise: `Volume Down` (Media Key)
-- Press: `Mute` (Media Key)
+**Encoder 3 (Focused/Active App):**
+- Clockwise: `F19`
+- Counter-Clockwise: `F20`
+- Press: `F21`
 
 4. Save your configuration in VIA
 
@@ -59,9 +61,13 @@ Your macropad sends F13-F18 key presses via VIA, and the AutoHotkey script runni
 
 1. Double-click `per-app-volume-control.ahk`
 2. You should see a green "H" icon in your system tray (indicates the script is running)
-3. Test by rotating Encoder 1 or 2 - you should see a tooltip showing the volume change
+3. Test the encoders:
+   - **Encoder 1/2**: Rotate to see Discord/Spotify volume tooltips
+   - **Encoder 3**: Click on any app window (e.g., Chrome, game, etc.), then rotate to control that app's volume
 
-**Note:** Discord and Spotify must be **running and playing audio** for the script to detect them.
+**Notes:**
+- Discord and Spotify must be **running and playing audio** for the script to detect them
+- For Encoder 3, the app you want to control must be the **active/focused window** (just click on it first)
 
 ---
 
@@ -99,9 +105,9 @@ Edit the script and change this line (default is 5%):
 VOLUME_STEP := 5  ; Change this number (1-100)
 ```
 
-### Control Different Apps
+### Control Different Apps (Encoder 1 & 2)
 
-Edit these lines in the script:
+Edit these lines in the script to change which apps Encoder 1 and 2 control:
 
 ```ahk
 DISCORD_PROCESS := "Discord.exe"  ; Change to any app, e.g., "chrome.exe"
@@ -114,16 +120,15 @@ SPOTIFY_PROCESS := "Spotify.exe"  ; Change to any app, e.g., "firefox.exe"
 3. Find your app and note the `.exe` name
 4. Use the exact name (case-insensitive)
 
-### Add More Encoders
+### How Encoder 3 (Focused App) Works
 
-If you have more encoders, add more hotkey mappings:
+Encoder 3 automatically detects whichever application window is currently active/focused:
 
-```ahk
-; Encoder 3 - Chrome
-F19::AdjustAppVolume("chrome.exe", VOLUME_STEP)
-F20::AdjustAppVolume("chrome.exe", -VOLUME_STEP)
-F21::ToggleAppMute("chrome.exe")
-```
+1. Click on the app you want to control (e.g., Chrome, a game, video player)
+2. Rotate Encoder 3 to adjust that app's volume
+3. Switch to a different app and Encoder 3 will control the new app
+
+**This is super flexible!** You don't need to configure specific apps - it works with ANY application that has audio.
 
 ---
 
@@ -149,6 +154,13 @@ F21::ToggleAppMute("chrome.exe")
 1. Open Task Manager → Details tab
 2. Verify the exact process name (e.g., `Discord.exe` vs `DiscordPTB.exe`)
 3. Update the process name in the script
+
+### Encoder 3 not controlling the right app
+
+**Fix:**
+1. Make sure the app window is actually **focused** (click on it first)
+2. The app must have played audio at least once to appear in Windows volume mixer
+3. Check the tooltip - it shows which app is being controlled
 
 ### Script won't start automatically
 
@@ -186,10 +198,11 @@ F21::ToggleAppMute("chrome.exe")
 
 ## Additional Notes
 
-- Volume changes show a tooltip with the current percentage
+- Volume changes show a tooltip with the app name and current percentage
 - Mute toggles show "MUTED" or "UNMUTED" status
-- The script only affects the specific applications, not system volume
+- The script only affects the specific applications, not master/device volume
 - Multiple instances of the same app (e.g., two Chrome windows) will be controlled together
+- **Encoder 3** dynamically follows your active window - great for games, video players, or any app!
 
 ---
 
