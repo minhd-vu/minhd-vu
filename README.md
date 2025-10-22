@@ -17,7 +17,9 @@
   </br>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs">
   </br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,gcp,mongodb,postgres,ansible,unity">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,ansible">
+  </br>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,firebase,mongodb,postgres,unity">
   </br>
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai">
 </div>
