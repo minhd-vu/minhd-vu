@@ -89,10 +89,10 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&theme=onedark&margin-h=6&margin-w=18&column=4#gh-dark-mode-only">
+    <img src="https://github-profile-trophy-one-sooty.vercel.app/?username=minhd-vu&theme=onedark&margin-h=6&margin-w=18&column=4#gh-dark-mode-only">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=minhd-vu&margin-h=6&margin-w=18&column=4#gh-light-mode-only">
+    <img src="https://github-profile-trophy-one-sooty.vercel.app/?username=minhd-vu&margin-h=6&margin-w=18&column=4#gh-light-mode-only">
   </a>
 </div>
 
